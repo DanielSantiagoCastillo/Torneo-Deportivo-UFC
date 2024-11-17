@@ -1,0 +1,7 @@
+{
+  "_id": "uuid",
+  "nombre": "string",
+  "experiencia_años": "int",
+  "pais": "string",
+  "deportistas": ["uuid"]  // IDs de los deportistas entrenados
+}

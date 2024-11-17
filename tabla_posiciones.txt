@@ -1,0 +1,13 @@
+{
+  "_id": "uuid",
+  "categoria": "string",
+  "clasificacion": [
+    {
+      "deportista_id": "uuid",
+      "victorias": "int",
+      "derrotas": "int",
+      "empates": "int",
+      "puntos": "int" // Basado en un sistema de puntos
+    }
+  ]
+}

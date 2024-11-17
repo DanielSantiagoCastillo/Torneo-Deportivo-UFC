@@ -1,0 +1,16 @@
+{
+    "_id": "uuid",
+    "nombre": "string",
+    "apodo": "string",
+    "edad": "int",
+    "peso": "decimal",
+    "altura": "decimal",
+    "categoria": "string",
+    "pais": "string",
+    "entrenador_id": "uuid",
+    "record": {
+      "victorias": "int",
+      "derrotas": "int",
+      "empates": "int"
+    }
+  }  

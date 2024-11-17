@@ -1,0 +1,15 @@
+{
+  "_id": "uuid",
+  "fecha": "date",
+  "ubicacion": "string",
+  "categoria": "string",
+  "deportista_1_id": "uuid",
+  "deportista_2_id": "uuid",
+  "arbitro_id": "uuid",
+  "resultado": {
+    "ganador_id": "uuid",
+    "tipo": "string",  // KO, TKO, Decisión, etc.
+    "ronda": "int",
+    "duracion": "string" // Ejemplo: "4:32" para minutos y segundos
+  }
+}

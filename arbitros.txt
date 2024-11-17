@@ -1,0 +1,7 @@
+{
+  "_id": "uuid",
+  "nombre": "string",
+  "experiencia_años": "int",
+  "pais": "string",
+  "licencia_activa": "boolean"
+}
